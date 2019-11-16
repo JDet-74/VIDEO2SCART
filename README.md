@@ -1,2 +1,3 @@
 # VIDEO2SCART
-connects the C128 video outputs to a SCART device
+this project is about a PCB that connects the Commodore C128 video outputs (RGBi & composite / S-Video) to a SCART display device!
+Please read the INFO PDFs ... coming soon.
