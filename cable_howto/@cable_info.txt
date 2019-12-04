@@ -1,0 +1,61 @@
+my cable recommendations from http://www.reichelt.de
+
+RGBI cable:
+Art.Nr. AK 2187
+D-SUB Kabel, 1:1, 9-pol., Stecker/Stecker, 3m
+cut the cable into half and use one for the RGBI cable
+
+Pin	color	info
+++++++++++++++++++++
+1	black	GND
+	+screen
+2	brown	GND
+3	red	Red
+4	orange	Green
+5	yellow	Blue
+6	green	Intensity
+7	blue	Monochrome
+8	purple	HSync
+9	white	VSync
+
+strip the cable isolation that the wires 1-9 are 5 cm long.
+I connected the cable screen to GND (black) as shown.
+the pictures shows the whole process.  
+
+DIN-8 cable:
+Art.Nr. MAS 80S 
+DIN-Stecker, 8-polig, Hufeisenform
+use the rest of the D-SUB cable to build the A/V cable 
+
+Pin	color	info
+++++++++++++++++++++
+1	black	Luminance (luma)
+2	brown	GND
+	+white+screen
+3	red	Audio OUT
+4	orange	Video OUT
+5	yellow	Audio IN
+6	green	Chromiance (chroma)
+7	blue	not connected
+8	purple	+5 Volt
+
+strip the cable isolation that the wires 1-9 are 3,5 cm long.
+I connected the cable screen to GND (brown+white) as shown.
+the pictures shows the whole process.  
+a link to the pinout of the A/V socket:
+https://www.c64-wiki.com/wiki/File:AudioVideo_8pol_Pinbelegung.gif
+
+SCART cable:
+Art.Nr. AK 315-15
+Scart Kabel 21-pol Scart Stecker, 1,5 m
+or 
+Art.Nr. AK 315-30
+Scart Kabel 21-pol Scart Stecker, 3 m
+
+cut the lenght you wanna use and look at the pictures.
+they show you where you can find the right wires. 
+you just need 12 wires of the 21 wires.
+a link to the pinout of a SCART Plug:
+http://www.nairam.sk/scart.jpg
+
+it is not easy to solder but possible :)
