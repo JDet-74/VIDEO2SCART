@@ -9,6 +9,9 @@ I created this project online on www.easyEDA.com and ordered the PCBs from www.J
 <p>Schematic_C128_VIDEO2SCART_JDet.pdf = the schematic that shows the circuit of all components.</p>
 <p>partslist.csv = a list of all components and the part number to order them from LCSC.</p>
 <p>Please read the cable assembling INFO PDFs ... coming soon.</p>
-<p>special thanks to Peter Grigull for designing the housing and sharing the STL files.</p>
+<p>special thanks to Peter Grigull for designing the case and sharing the STL files.</p>
+
+<p>the function:</br> SW1 switches between the 80 col. and the 40 col. mode.</br> SW2 switches between video (composite) or s-video signal in the 40 col. mode</p>
+<p>jumper function:</br> short left&middle pin - monochrome is syncing the 80 col. mode - that works GOOD.</br> short right&middle pin - NOR generated HSync&VSync signal (generated with the JFET) is syncing the 80 col. mode. i noticed that this function do not work! during testing on the bredboard it went all well ... that is a little bit odd ... but you do not need this, because the monochrome sync works GOOD. SORRY for that ...</p>
 
 <p>cheers ... <strong>JDet</strong></p>
