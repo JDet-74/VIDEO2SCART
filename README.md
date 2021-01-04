@@ -15,5 +15,5 @@ I created this project online on www.easyEDA.com and ordered the PCBs from www.J
 <p><strong>jumper function:</strong></br> short left&middle pin - monochrome is syncing the 80 col. mode - that works GOOD.</br> short right&middle pin - NOR generated HSync&VSync signal (generated with the JFET) is syncing the 80 col. mode. I noticed that this function do not work! during testing on the bredboard it went all well ... that is a little bit odd ... but you do not need this, because the monochrome sync works GOOD. SORRY for that ...</p>
 
 <p>cheers ... <strong>JDet</strong></p>
-## Contact
-For any questions (technical or experience), please use the issue tracking system of github. 
+<h3>Contact</h3>
+<p>For any questions (technical or experience), please use the issue tracking system of github.</p> 
